@@ -1,4 +1,3 @@
-Separate VBA script files 
 Sub alphabetical()
     Dim ws As Worksheet
     Dim lastrow As Long
