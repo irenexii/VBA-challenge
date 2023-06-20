@@ -1,3 +1,9 @@
+Screenshots of the results 
+<img width="1440" alt="Screen Shot 2023-06-19 at 7 09 45 PM" src="https://github.com/irenexii/VBA-challenge/assets/135086472/de621cfc-8998-4bf3-b428-a29d579314a9">
+<img width="1440" alt="Screen Shot 2023-06-19 at 7 09 50 PM" src="https://github.com/irenexii/VBA-challenge/assets/135086472/0dd1320c-e7bd-42e4-ae33-629cb107ccb6">
+<img width="1440" alt="Screen Shot 2023-06-19 at 7 10 00 PM" src="https://github.com/irenexii/VBA-challenge/assets/135086472/c2a46195-0455-4c91-86d1-d1abb1f647a8">
+
+
 # VBA-challenge
 Background
 You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
