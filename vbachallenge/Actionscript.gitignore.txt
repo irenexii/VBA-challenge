@@ -1,0 +1,7 @@
+#lgnorlog specific file
+
+.DS_Store
+	.localized
+	Actionscript .gitignore.txt
+
+
